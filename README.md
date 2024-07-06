@@ -11,121 +11,78 @@
 - 🔧 Siempre buscando nuevas oportunidades para aplicar mis habilidades en proyectos de desarrollo multiplataforma backend.
 
 ## Habilidades
-
-- **Sistemas Operativos**: Windows, Linux Debian, Linux Arch
-- **Lenguajes de Programación**: Java, Python 3, C++
-- **Frameworks y Tecnologías**: Spring Boot, Spring Data JPA
-- **Desarrollo de Videojuegos**: Unreal Engine 5, Quixel Megascans, Metahuman
-
-
-  
-		
-		<td valign="top" width="50%">
-			<h3>Bases de Datos</h3>
+<table>
+	<tr>
+		<td valign="top" width="33%">
+			<h3>Lenguajes de Programación</h3>
 			<div align="center">
-				<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+				<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80"/>
+				</a>
+				<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80"/>
+				</a>
+				<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80"/> </a>
+				<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80"/> </a>
+			</div>
+		</td>
+		<td valign="top" width="33%">
+			<h3>Desarrollo Frontend</h3>
+			<div align="center">
+				<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80"/> </a>
+				<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80"/> </a>
+			</div>
+		</td>
+		<td valign="top" width="33%">
+			<h3>Desarrollo Backend</h3> 
+			<div align="center">
+			  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80"/> </a>
+			  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80"/> </a>
 			</div>
 		</td>
 	</tr>
-</table>
-
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-
-
-### Lenguajes de Programación  
-<div align="center">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</div>
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-### Desarrollo Frontend  
-<div align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</div>
-
-</td></tr><tr><td>
-
-
-
-### Desarrollo Backend  
-<div align="center">
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</div>
-
-</td></tr></table> 
-
-
-
-
-
-### Lenguajes de Programación
-<div align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</div>
-
-### Desarrollo Frontend
-<div align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</div>
-
-### Desarrollo Backend
-<div align="center">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</div>
-
-### Bases de Datos
-<div align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</div>
-
-### DevOps
-<div align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-</div>
-
-### Frameworks
-<div align="center">
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-</div>
-
-### Software
-<div align="center">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-</div>
-
-### Motores de Juegos
-<div align="center">
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-</div>
-
-### Otros
-<div align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</div>
-
+	<tr>
+		<td>
+			<h3>Bases de Datos</h3>
+			<div align="center">
+				<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80"/> </a>
+			</div>
+		</td>
+		<td>
+			<h3>DevOps</h3> 
+			<div align="center">
+				<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80"/> </a>
+			</div>
+		</td>
+		<td>
+			<h3>Frameworks</h3>
+			<div align="center">
+  			<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="80"/> </a>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h3>Software</h3>
+			<div align="center">
+  			<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="80"/> </a>
+			</div>
+		</td>
+		<td>
+			<h3>Motores de Juegos</h3> 
+			<div align="center">
+  			<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="80"/> </a>
+			</div>
+		</td>
+		<td>
+			<h3>Otros</h3>
+			<div align="center">
+			  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80"/> </a>
+			  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80"/> </a>
+			</div>
+		</td>
+	</tr>
+</table> 
 
 ## Proyectos Destacados
 
@@ -149,15 +106,20 @@ Soy un firme creyente en el poder de la tecnología para resolver problemas glob
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Macrebot&show_icons=true&theme=radical)](https://github.com/Macrebot)
+<a href="#">
+  <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=Macrebot&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
+</a>
+<a href="#">
+  <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Macrebot&layout=donut&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
+</a>
+<a height=250px align="center" href="https://git.io/streak-stats">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Macrebot&theme=midnight-purple&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</a>
 
 ## Contacto
 
-- 🔗 Conéctate conmigo en [LinkedIn](www.linkedin.com/in/luis-maldonado-uriepero-1b6b8019b).
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/luis maldonado uriepero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis maldonado uriepero" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/luis maldonado uriepero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis maldonado uriepero" width="50" /></a>
 </p>
 
 ## Agradecimientos
