@@ -106,11 +106,11 @@ Soy un firme creyente en el poder de la tecnología para resolver problemas glob
 
 ## Estadísticas de GitHub
 
-<a href="#">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=Macrebot&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
 </a>
-<a href="#">
-  <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Macrebot&layout=donut&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macrebot&layout=donut&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
 </a>
 <a height=250px align="center" href="https://git.io/streak-stats">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=Macrebot&theme=midnight-purple&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
