@@ -17,6 +17,10 @@
 - **Frameworks y Tecnologías**: Spring Boot, Spring Data JPA
 - **Desarrollo de Videojuegos**: Unreal Engine 5, Quixel Megascans, Metahuman
 
+| Columna 1  |  Columna 2  |
+|------------|-------------|
+|  Dato 1    |  Dato 2     |
+
 ### Lenguajes de Programación
 <div align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
