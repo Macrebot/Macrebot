@@ -34,7 +34,6 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>  
 
-![]()  
 
 
 </td><td valign="top" width="33%">
