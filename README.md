@@ -21,12 +21,16 @@
 ### [Consult the Beaver](https://github.com/HuntersStudio/Hack2Progress2024)
 Aplicación de escritorio diseñada en la hackathon Hack2Progress 2024 para evaluar los riesgos de incendios forestales en función de diversas variables y proporcionar consejos útiles para la prevención. Esta aplicación está especialmente pensada para ser utilizada por cualquier persona que desee realizar actividades en exteriores y quiera asegurarse de que el riesgo de incendio es bajo.
 
-<img src="https://github.com/HuntersStudio/ConsultTheBeaver/blob/c973e8d7ab4479e0244d4ef919fad9d2dbab4fa2/retoHack/src/main/resources/img/WhatsApp%20Image%202024-03-02%20at%2015.02.13.jpeg" width="400">
+<p align="center">
+  <img src="https://github.com/HuntersStudio/ConsultTheBeaver/blob/c973e8d7ab4479e0244d4ef919fad9d2dbab4fa2/retoHack/src/main/resources/img/WhatsApp%20Image%202024-03-02%20at%2015.02.13.jpeg" alt="Ventana principal de la aplicación" width="400"/>
+</p>
 
 ### [Plataforma Creative Hunters](https://github.com/HuntersStudio/ClientPlatform)
 Proyecto sobre una plataforma de videojuegos que incluye funcionalidades para una **Comunidad de Jugadores** y un **CRM para desarrolladores**, todo integrado en una aplicación de escritorio utilizando la tecnología Electron.
 
-<img src="https://github.com/HuntersStudio/ClientPlatform/blob/1d8584ef2b16a1e1251ac1f33ebd1c5d70543a8e/Images/CreativeHuntersPlatform.png" width="200">
+<p align="center">
+  <img src="https://github.com/HuntersStudio/ClientPlatform/blob/1d8584ef2b16a1e1251ac1f33ebd1c5d70543a8e/Images/CreativeHuntersPlatform.png" alt="Ventana principal de la aplicación" width="400"/>
+</p>
 
 ## Visión
 
