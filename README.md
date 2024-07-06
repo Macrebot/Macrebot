@@ -2,6 +2,17 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy Luis Maldonado, un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás una muestra de mis proyectos y contribuciones.
 
+## Contacto
+
+<div align="center">
+<a href="https://github.com/Macrebot" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/luis-maldonado-uriepero-1b6b8019b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div> 
+
 ## Sobre mí
 
 - 💼 Actualmente desempleado. ¡Buscando nuevas oportunidades laborales!
@@ -115,12 +126,8 @@ Soy un firme creyente en el poder de la tecnología para resolver problemas glob
 <a height=250px align="center" href="https://git.io/streak-stats">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=Macrebot&theme=midnight-purple&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </a>
-
-## Contacto
-
-<p align="left">
-  <a href="https://linkedin.com/in/luis maldonado uriepero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis maldonado uriepero" width="50" /></a>
-</p>
+<br/><br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macrebot&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula" alt="macrebot" /></a> </p>
 
 ## Agradecimientos
 
