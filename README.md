@@ -116,18 +116,22 @@ Proyecto sobre una plataforma de videojuegos que incluye funcionalidades para un
 Soy un firme creyente en el poder de la tecnología para resolver problemas globales. Desde temprana edad, he tenido una atracción por la tecnología y la capacidad de crear mundos, herramientas y sistemas desde el teclado. La programación me ha permitido cumplir todas las ideas que se me ocurrían. Soy curioso y aventurero, y me gusta probar nuevas tecnologías y formas para crear aquello que sea capaz de imaginar.
 
 ## Estadísticas de GitHub
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=Macrebot&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macrebot&layout=donut&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
-</a>
-<a height=250px align="center" href="https://git.io/streak-stats">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=Macrebot&theme=midnight-purple&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-</a>
-<br/><br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macrebot&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula" alt="macrebot" /></a> </p>
+<div align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img height=250px src="https://github-readme-stats.vercel.app/api?username=Macrebot&locale=es&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
+	</a>
+	<br/><br/>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macrebot&locale=es&layout=donut&bg_color=000000&title_color=9745F5&text_color=7D39CB" />
+	</a>
+	<br/><br/>
+	<a href="https://git.io/streak-stats">
+		<img height=250px src="https://github-readme-streak-stats.herokuapp.com?user=Macrebot&theme=midnight-purple&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+	</a>
+</div>
+<br/>
+<h3 align="center">Trofeos del Perfil de GitHub</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height=150px src="https://github-profile-trophy.vercel.app/?username=macrebot&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula" alt="macrebot" /></a> </p>
 
 ## Agradecimientos
 
